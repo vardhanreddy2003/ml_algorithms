@@ -11,3 +11,9 @@ Logistic Regression (from scratch): Implemented a binary classification algorith
 K-Means Algorithm (from scratch): Built the K-Means clustering algorithm from scratch, which partitions the dataset into k distinct clusters based on feature similarity.
 
 Gradient Descent (from scratch): Created the gradient descent optimization algorithm to minimize the cost function, updating parameters iteratively to achieve convergence.
+
+
+
+In addition to developing machine learning algorithms from scratch, I have also worked extensively with various datasets. This involved applying key data preprocessing and feature engineering techniques to prepare the data for modeling. The files related to these processes can be found below:
+
+projects link:https://github.com/vardhanreddy2003/ml_projects
